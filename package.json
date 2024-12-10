@@ -1,6 +1,6 @@
 {
-  "name": "javascript-starter",
-  "version": "3.0.0",
+  "name": "webflowecomschmiede-aida",
+  "version": "1.0.0",
   "description": "A starter kit for building web projects with modern JavaScript",
   "author": {
     "name": "Amit Agarwal",
@@ -52,6 +52,7 @@
     "rimraf": "^5.0.5"
   },
   "dependencies": {
+    "@11labs/client": "^0.0.4",
     "lodash": "^4.17.21"
   }
 }
